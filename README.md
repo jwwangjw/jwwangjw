@@ -11,5 +11,3 @@
 - 🌱 I’m currently learning  React and Java
 
 - 💬 Ask me about 熟Java，会Python，懂前端，会Android
-
-- 📫 How to reach me: 1508417398@qq.com
