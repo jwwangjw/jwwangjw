@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwwangjw)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently studying in NJU
-
 - 🌱 I’m currently learning  React and Java
 
 - 💬 Ask me about 熟Java，会Python，懂前端，会Android
